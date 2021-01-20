@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ZxmMEmksvW+jpL2z65Vl+f5/zTzSdN4N+r8ex9MjZpq25o4LxlF/K+BzX5AScqG7LIV7zyI9eSOydYKv3tn2Wg==",
+  "dgSpecHash": "t5yifXUyUsh1QZO92yX3rvLtbxwOTS8bbDwewOaSGqQWWcwHuVYHLfeQPHdjTlNkjB24hjar/fKg+s5rIcqAaA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\garba\\source\\repos\\PruebaChartJS\\PruebaChartJS\\PruebaChartJS.csproj",
+  "projectFilePath": "D:\\Andrea\\Team Quality\\Dashboard\\pruebachartjs\\PruebaChartJS\\PruebaChartJS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\garba\\.nuget\\packages\\chart.js\\2.9.3\\chart.js.2.9.3.nupkg.sha512"
+    "C:\\Users\\Luis\\.nuget\\packages\\chart.js\\2.9.3\\chart.js.2.9.3.nupkg.sha512"
   ],
   "logs": []
 }

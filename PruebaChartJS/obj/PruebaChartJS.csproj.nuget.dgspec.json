@@ -1,24 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\garba\\source\\repos\\PruebaChartJS\\PruebaChartJS\\PruebaChartJS.csproj": {}
+    "D:\\Andrea\\Team Quality\\Dashboard\\pruebachartjs\\PruebaChartJS\\PruebaChartJS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\garba\\source\\repos\\PruebaChartJS\\PruebaChartJS\\PruebaChartJS.csproj": {
+    "D:\\Andrea\\Team Quality\\Dashboard\\pruebachartjs\\PruebaChartJS\\PruebaChartJS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\garba\\source\\repos\\PruebaChartJS\\PruebaChartJS\\PruebaChartJS.csproj",
+        "projectUniqueName": "D:\\Andrea\\Team Quality\\Dashboard\\pruebachartjs\\PruebaChartJS\\PruebaChartJS.csproj",
         "projectName": "PruebaChartJS",
-        "projectPath": "C:\\Users\\garba\\source\\repos\\PruebaChartJS\\PruebaChartJS\\PruebaChartJS.csproj",
-        "packagesPath": "C:\\Users\\garba\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\garba\\source\\repos\\PruebaChartJS\\PruebaChartJS\\obj\\",
+        "projectPath": "D:\\Andrea\\Team Quality\\Dashboard\\pruebachartjs\\PruebaChartJS\\PruebaChartJS.csproj",
+        "packagesPath": "C:\\Users\\Luis\\.nuget\\packages\\",
+        "outputPath": "D:\\Andrea\\Team Quality\\Dashboard\\pruebachartjs\\PruebaChartJS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\garba\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -64,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.405\\RuntimeIdentifierGraph.json"
         }
       }
     }
