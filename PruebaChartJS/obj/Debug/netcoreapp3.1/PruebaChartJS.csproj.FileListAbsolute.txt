@@ -35,3 +35,40 @@ C:\Users\garba\source\repos\PruebaChartJS\PruebaChartJS\obj\Debug\netcoreapp3.1\
 C:\Users\garba\source\repos\PruebaChartJS\PruebaChartJS\obj\Debug\netcoreapp3.1\PruebaChartJS.csproj.CopyComplete
 C:\Users\garba\source\repos\PruebaChartJS\PruebaChartJS\obj\Debug\netcoreapp3.1\PruebaChartJS.csproj.CoreCompileInputs.cache
 C:\Users\garba\source\repos\PruebaChartJS\PruebaChartJS\obj\Debug\netcoreapp3.1\PruebaChartJS.MvcApplicationPartsAssemblyInfo.cache
+D:\Andrea\Team Quality\Dashboard\pruebachartjs\PruebaChartJS\obj\Debug\netcoreapp3.1\PruebaChartJS.dll
+D:\Andrea\Team Quality\Dashboard\pruebachartjs\PruebaChartJS\obj\Debug\netcoreapp3.1\PruebaChartJS.pdb
+D:\Andrea\Team Quality\Dashboard\pruebachartjs\PruebaChartJS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Andrea\Team Quality\Dashboard\pruebachartjs\PruebaChartJS\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Andrea\Team Quality\Dashboard\pruebachartjs\PruebaChartJS\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Andrea\Team Quality\Dashboard\pruebachartjs\PruebaChartJS\bin\Debug\netcoreapp3.1\PruebaChartJS.exe
+D:\Andrea\Team Quality\Dashboard\pruebachartjs\PruebaChartJS\bin\Debug\netcoreapp3.1\PruebaChartJS.deps.json
+D:\Andrea\Team Quality\Dashboard\pruebachartjs\PruebaChartJS\bin\Debug\netcoreapp3.1\PruebaChartJS.runtimeconfig.json
+D:\Andrea\Team Quality\Dashboard\pruebachartjs\PruebaChartJS\bin\Debug\netcoreapp3.1\PruebaChartJS.runtimeconfig.dev.json
+D:\Andrea\Team Quality\Dashboard\pruebachartjs\PruebaChartJS\bin\Debug\netcoreapp3.1\PruebaChartJS.dll
+D:\Andrea\Team Quality\Dashboard\pruebachartjs\PruebaChartJS\bin\Debug\netcoreapp3.1\PruebaChartJS.pdb
+D:\Andrea\Team Quality\Dashboard\pruebachartjs\PruebaChartJS\bin\Debug\netcoreapp3.1\PruebaChartJS.Views.dll
+D:\Andrea\Team Quality\Dashboard\pruebachartjs\PruebaChartJS\bin\Debug\netcoreapp3.1\PruebaChartJS.Views.pdb
+D:\Andrea\Team Quality\Dashboard\pruebachartjs\PruebaChartJS\obj\Debug\netcoreapp3.1\PruebaChartJS.csprojAssemblyReference.cache
+D:\Andrea\Team Quality\Dashboard\pruebachartjs\PruebaChartJS\obj\Debug\netcoreapp3.1\PruebaChartJS.AssemblyInfoInputs.cache
+D:\Andrea\Team Quality\Dashboard\pruebachartjs\PruebaChartJS\obj\Debug\netcoreapp3.1\PruebaChartJS.AssemblyInfo.cs
+D:\Andrea\Team Quality\Dashboard\pruebachartjs\PruebaChartJS\obj\Debug\netcoreapp3.1\PruebaChartJS.csproj.CoreCompileInputs.cache
+D:\Andrea\Team Quality\Dashboard\pruebachartjs\PruebaChartJS\obj\Debug\netcoreapp3.1\PruebaChartJS.MvcApplicationPartsAssemblyInfo.cache
+D:\Andrea\Team Quality\Dashboard\pruebachartjs\PruebaChartJS\obj\Debug\netcoreapp3.1\PruebaChartJS.RazorAssemblyInfo.cache
+D:\Andrea\Team Quality\Dashboard\pruebachartjs\PruebaChartJS\obj\Debug\netcoreapp3.1\PruebaChartJS.RazorAssemblyInfo.cs
+D:\Andrea\Team Quality\Dashboard\pruebachartjs\PruebaChartJS\obj\Debug\netcoreapp3.1\PruebaChartJS.TagHelpers.input.cache
+D:\Andrea\Team Quality\Dashboard\pruebachartjs\PruebaChartJS\obj\Debug\netcoreapp3.1\PruebaChartJS.TagHelpers.output.cache
+D:\Andrea\Team Quality\Dashboard\pruebachartjs\PruebaChartJS\obj\Debug\netcoreapp3.1\PruebaChartJS.RazorCoreGenerate.cache
+D:\Andrea\Team Quality\Dashboard\pruebachartjs\PruebaChartJS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Andrea\Team Quality\Dashboard\pruebachartjs\PruebaChartJS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Andrea\Team Quality\Dashboard\pruebachartjs\PruebaChartJS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Andrea\Team Quality\Dashboard\pruebachartjs\PruebaChartJS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Andrea\Team Quality\Dashboard\pruebachartjs\PruebaChartJS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Andrea\Team Quality\Dashboard\pruebachartjs\PruebaChartJS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Andrea\Team Quality\Dashboard\pruebachartjs\PruebaChartJS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Andrea\Team Quality\Dashboard\pruebachartjs\PruebaChartJS\obj\Debug\netcoreapp3.1\PruebaChartJS.RazorTargetAssemblyInfo.cache
+D:\Andrea\Team Quality\Dashboard\pruebachartjs\PruebaChartJS\obj\Debug\netcoreapp3.1\PruebaChartJS.RazorTargetAssemblyInfo.cs
+D:\Andrea\Team Quality\Dashboard\pruebachartjs\PruebaChartJS\obj\Debug\netcoreapp3.1\PruebaChartJS.Views.pdb
+D:\Andrea\Team Quality\Dashboard\pruebachartjs\PruebaChartJS\obj\Debug\netcoreapp3.1\staticwebassets\PruebaChartJS.StaticWebAssets.Manifest.cache
+D:\Andrea\Team Quality\Dashboard\pruebachartjs\PruebaChartJS\obj\Debug\netcoreapp3.1\staticwebassets\PruebaChartJS.StaticWebAssets.xml
+D:\Andrea\Team Quality\Dashboard\pruebachartjs\PruebaChartJS\obj\Debug\netcoreapp3.1\PruebaChartJS.genruntimeconfig.cache
+D:\Andrea\Team Quality\Dashboard\pruebachartjs\PruebaChartJS\obj\Debug\netcoreapp3.1\PruebaChartJS.csproj.CopyComplete
